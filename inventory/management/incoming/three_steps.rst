@@ -52,7 +52,7 @@ Of course, you can rename them if you want. To do so, go to
 :menuselection:`Configuration --> Locations` and select the one you want to rename.
 Change its name and hit save.
 
-Create a Sales Order
+Create a Sales Order -> Wrong information should be Create a Purchase Order
 ====================
 
 In the *Sales* app, create a quotation with storable products to
